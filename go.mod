@@ -20,7 +20,7 @@ require (
 	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51
 	github.com/kelseyhightower/envconfig v1.4.0
 	github.com/kylelemons/godebug v1.1.0 // indirect
-	github.com/manifoldco/promptui v0.8.0
+	github.com/manifoldco/promptui v0.9.0
 	github.com/mitchellh/copystructure v1.0.0 // indirect
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/mitchellh/go-wordwrap v1.0.0 // indirect
